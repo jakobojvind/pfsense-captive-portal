@@ -15,3 +15,5 @@ If you are to use multiple users, you should make the username and password visi
 * Logout Page
 
 [here]:http://bootsnipp.com/snippets/featured/parallax-login-form
+
+[Location on pfSense]: /var/db/cpelements
